@@ -1,0 +1,7 @@
+#ifndef INC_CONSTANTS_H_
+#define INC_CONSTANTS_H_
+
+
+#define TIM_IN_FREQUENCY  (16000000)
+
+#endif /* INC_CONSTANTS_H_ */
